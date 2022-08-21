@@ -5,7 +5,7 @@ import Header from "./Header";
 import Login from "./Login";
 import {dispatch, useEffect} from "react"
 import {auth} from './firebase';
-function App() {
+function App() { 
 
   useEffect(() => {
     // will only run once when the app component loads...
