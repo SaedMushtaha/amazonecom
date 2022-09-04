@@ -7,7 +7,7 @@ import Checkout from "./Checkout";
 import Login from "./Login";
 import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
-
+pk_test_51Le1U8C3GThXvK4R1bMdsj4PQHBtRUa0ECcAwaCaQeGvgIXJMMjoUqTwNrdsUlod6aFBfkV3LFC0gOddSiR3H4Xh00bFDs5tol
 
 function App() {
   const [{}, dispatch] = useStateValue();
